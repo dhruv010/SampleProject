@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Volumes/Data Safe/Software/chromedriver"/>
+	<classpathentry kind="lib" path="/Volumes/Data Safe/Software/selenium-server-standalone-3.141.59.jar" sourcepath="/Volumes/Data Safe/Software/Selenium_doc.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="https://seleniumhq.github.io/selenium/docs/api/java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/Data Safe/Software/WebDriverManager/webdrivermanager-3.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
